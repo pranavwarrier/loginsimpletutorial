@@ -4,6 +4,10 @@ A simple login tutorial with data validation.
 
 ## Getting Started
 
+Edited files :
+- Pubspec.yaml -> assets/images
+- Run "flutter get pub" on terminal
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
