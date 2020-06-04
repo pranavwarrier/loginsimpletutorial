@@ -1,6 +1,6 @@
 # logintutorial
 
-A new Flutter project.
+A simple login tutorial with data validation.
 
 ## Getting Started
 
